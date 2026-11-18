@@ -1,0 +1,12 @@
+# Datos personales: nunca se suben
+datos_privados/
+
+# Claves y contraseñas
+.env
+
+# Archivos que crean Python, los cuadernos y el sistema
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+Thumbs.db
